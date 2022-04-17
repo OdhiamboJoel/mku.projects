@@ -1,15 +1,25 @@
 <DOCTYPE! html>
 <head>
-<body style="text-align:center">
-<nav><title><Registration Forms></title>
-<form><h2 style="text-align:center; color:black;">
-<bold><strong><u> STUDENT REGISTRATION</u> </h2>
-<h3 style="text-align:center; color:black;">
-<bold><u> STUDENT DETAILS</u></h3><p>
- FIRST NAME <input type="text" placeholder="Joel" 
-size="20"></p><p> LAST NAME<input type="text" placeholder="Odhiambo" 
-size="20"></p><p> SURNAME NAME <input type="text" placeholder="Blix" size="20"></p>
-<p> GENDER<input type="radio" name="gender" value="male" checked> Male <input type="radio" 
-name="gender" value="female" checked> Female <input type="radio" name="gender" value="other" checked> 
-Other<p> CONTACTS<input type="number" name="phone number" 
-size="16"></p><br><h3 style="
+<body>
+<style>
+body{
+text-align:center}
+h2{
+text-align:center; color:black}
+h3{
+text-align:center; color:black}
+</style>
+<nav>
+<title><Registration Forms></title>
+<form>
+<h3><bold><strong><u> STUDENT REGISTRATION </u></strong></bold></h3>
+<h2><bold><u> STUDENT DETAILS </u></bold></h2>
+<p> FIRST NAME <input type="text" placeholder="Joel" size="20"></p>
+<p> LAST NAME <input type="text" placeholder="Odhiambo" size="20"></p>
+<p> SURNAME NAME <input type="text" placeholder="Blix" size="20"></p>
+<p> GENDER <input type="radio" name="gender" value="male" checked> Male <input type="radio" name="gender" value="female" checked> Female <input type="radio" name="gender" value="other" checked> Other
+<p> CONTACTS <input type="number" name="phone number"></p> 
+</nav>
+</body>
+</head>
+</html>
