@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<body>
+<nav>
+<title> BASIC TUTORIAL </title>
+<img src="jamurilogo.jpg" style="float:center"/>
+<h2 style="text-align:center; color: blue"><u> JAMHURI HIGH SCHOOL </u></h2>
+<hr style="width: 50%; color: pink"/>
+<h1 style="text-align: center; color: red">
+<a href="home.html"> Home|</a>
+<a href="about us.html"> About Us|</a>
+<a href="contacts.html"> Contact us|</a>
+<a href="forms"> Administrations|</a>
+<a href="#"> Dormitories|</a>
+<hr style="width: 90%"/>
+<img src="background.jpg" style="float:center; width:1200px; height:650px"/>
+</nav>
+</h1>
+</body>
+</head>
+</html>
