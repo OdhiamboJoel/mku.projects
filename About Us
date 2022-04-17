@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> abt us</title>
+<style>
+body{
+background-color:cyan;color:black}
+h3{
+font-size:20px;color:black;text-align:center;}
+</style>
+</head>
+<body>
+<h3><ul>  MOTTO <br>Oasis of Knowledge<br>
+<br> VISION <br>To provide quality education<br>
+<br> MISSION<br>To be the best institution offering quality education<br>
+<br> CORE VALUES<br>Honest<br>Hardworking<br>Trustworthy<br>
+<br>HISTORY<br>The institution began in the year 1920 as a mixed boys and girls day school under the colonial government.<br>The institution was later transformed into  a boys boarding school in 1989.</ul></h3>
+</body>
+</html>
